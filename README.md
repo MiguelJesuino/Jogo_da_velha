@@ -1,7 +1,7 @@
 # 👵 Jogo da Velha
 um joguinho simples baseado no famoso jogo da velha, ótimo para praticar interface grafica, programação orientada a objetos e logica
 
-## 📷 Screenshot
+# 📷 Screenshot
 <div align="center">
     <img src="imagens/jogo_da_velha_img.png" alt="screenshot do jogo" style="width: 300px;">
     <img src="imagens/jogo_da_velha_marcado.png" alt="screenshot do jogo" style="height: 434px; width: 300px;">
