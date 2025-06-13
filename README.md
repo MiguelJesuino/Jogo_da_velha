@@ -33,17 +33,22 @@ python3 jogoDaVelha.py  # executando o jogo
 
 ### ❌ Se você **não tem o Git**:
 1. Baixe o repositório como `.zip`:
-<div align="center">
-    <img src="imagens/tutorial_download_zip.png" alt="screenshot do jogo" style="height: 231px;">&nbsp;
+<div align="left">
+    <img src="imagens/tutorial_download_zip.png" alt="screenshot do jogo" style="height: 231px;">&nbsp&nbsp&nbsp&nbsp;
     <img src="imagens/tutorial_download_zip2.png" alt="screenshot do jogo" style="">
 </div>
+<br><br>
+
 
 2. Extraia o conteúdo e abra a pasta `Jogo_da_velha`.
+
+
 3. No terminal/prompt de comando, execute:
 ```bash
 pip install -r requirements.txt
 python3 jogoDaVelha.py
 ```
+
    
 # 📁 Estrutura do Projeto
 ```Bash
